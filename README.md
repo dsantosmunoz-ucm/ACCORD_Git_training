@@ -11,6 +11,9 @@ o- Maria was here too
 
 Changing test
 
+### Contribution for p-narciso on remote mode
+Thanks Daniel about the nice training about GitHub.
+
 
 ### Working with forks
 ## Working with forks
